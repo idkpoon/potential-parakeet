@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cal.ly</string>
+    <string name="name">Name</string>
+    <string name="type_number">Type Number</string>
+    <string name="new_contact">New Contact</string>
+    <string name="select_image">Select Image</string>
+    <string name="pick_contact">Pick Contact</string>
+    <string name="save">Save</string>
+    <string name="contactDesc">contactDesc</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="editor_insert_contact_failed">Error with saving pet</string>
+    <string name="editor_insert_contact_successful">Pet saved</string>
+    <string name="uri_path">URI Path:</string>
+    <string name="real_path">Real Path:</string>
+
+</resources>
